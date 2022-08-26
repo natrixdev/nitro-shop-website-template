@@ -1,6 +1,7 @@
 # [| Previews below ⤵️ |](https://github.com/natrixdev)
 <hr>
-# Nitro Shop Website Template
+<br>
+<h1>Nitro Shop Template</h1>
 A Discord Nitro shop website template using HTML/CSS/JS
 
 ## [Login Template](https://github.com/natrixdev/nitro-shop-website-template/tree/main/login-template) Preview:
